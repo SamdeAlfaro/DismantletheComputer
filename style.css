@@ -1,0 +1,39 @@
+body {
+    background-color: #231f20; /* You can adjust the color code as needed */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+nav {
+    background-color: #141313;
+    padding: 10px 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+
+  /* Styling for the links inside the list items */
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+
+  nav ul li a:hover {
+    background-color: #555;
+  }
+
+p {
+    text-align: center;
+}
+
