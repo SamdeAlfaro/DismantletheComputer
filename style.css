@@ -6,7 +6,11 @@ body {
 
 nav {
     background-color: #141313;
-    padding: 10px 10px;
+    padding: 20px 0; /* Increase the padding to make the navbar thicker */
+    position: fixed; /* Make the navbar fixed */
+    top: 0; /* Position it at the top of the viewport */
+    width: 100%; /* Make it span the entire width */
+    z-index: 1000; /* Ensure it stays above other content */
 }
 
 nav ul {
@@ -25,7 +29,7 @@ nav ul {
   nav ul li a {
     color: white;
     text-decoration: none;
-    padding: 5px 10px;
+    padding: 10px 15px;
     border-radius: 5px;
   }
 
