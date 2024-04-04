@@ -38,6 +38,22 @@ nav ul {
   }
 
 p {
-    text-align: center;
+    text-align: left;
+    color: rgb(229, 229, 229);
+    
 }
 
+#essay{
+    margin: 10vh 10vw;
+    padding: 5vh 5vw; /* Add some padding for better readability */
+    line-height: 1.6;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+}
+
+h1{
+    font-size: large;
+    text-align: center;
+    color: rgb(229, 229, 229);
+    padding: 2vh 5vw;
+}
