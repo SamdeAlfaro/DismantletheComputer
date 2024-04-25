@@ -35,6 +35,7 @@ Another improvement would be to make the website responsive on small devices suc
 - https://medium.com/nerd-for-tech/making-a-glass-material-in-unity-eda50c616463
 - https://www.youtube.com/watch?v=iuygipAigew&ab_channel=LMHPOLY
 - https://github.com/EmmaPrats/Camera-Rotation-Tutorial
+- https://www.youtube.com/watch?v=OltY8JIaP-4
 - https://www.youtube.com/watch?v=mx__ZPw4fzg&ab_channel=TheGameDevCave
 - https://github.com/DA-LAB-Tutorials/YouTube-Unity-Tutorials/blob/main/PanZoomOrbitCenter.cs
 - https://www.youtube.com/watch?v=-RBwPD6NNms&ab_channel=RigorMortisTortoise 
